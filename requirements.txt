@@ -1,1 +1,6 @@
-
+streamlit
+mysql-connector-python
+pandas
+plotly
+openpyxl
+reportlab
