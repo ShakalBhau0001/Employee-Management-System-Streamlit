@@ -19,7 +19,7 @@ def main():
             mobileno BIGINT,
             designation VARCHAR(20),
             department VARCHAR(20),
-            salary DECIMAL(7,2)
+            salary DECIMAL(10,2)
         )
     """)
     conn.commit()
