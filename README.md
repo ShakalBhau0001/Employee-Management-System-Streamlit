@@ -183,6 +183,7 @@ streamlit run main.py
 ## 🗄️ Database Design
 
 ### EMP Table
+
 ```json
 {
   "empid": 101,
@@ -199,7 +200,33 @@ streamlit run main.py
 
 ## 🖼️ Screenshots
 
-_Add screenshots as soon as possible._
+### 1. One Time DB Setup
+
+![Preview](assets/EMP-DB.png)
+
+### 2. Dashboard
+
+![Preview](assets/EMP-DASH.png)
+
+### 3. Employee View
+
+![Preview](assets/EMP-RECVIEW.png)
+
+### 4. Employee Add
+
+![Preview](assets/EMP-RECADD.png)
+
+### 5. Employee Update
+
+![Preview](assets/EMP-RECUPD.png)
+
+### 6. Employee Delete
+
+![Preview](assets/EMP-RECDEL.png)
+
+### 7.  Data Import
+
+![Preview](assets/EMP-IMP.png)
 
 ---
 
@@ -224,15 +251,15 @@ _Add screenshots as soon as possible._
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 👨‍💻 Contributors
 
-> **Developer: Shakal Bhau**
-
-> **GitHub: [ShakalBhau0001](https://github.com/ShakalBhau0001)**
+> **Developer: Shakal Bhau & Rajlaxmi Patil**
+ 
+> **GitHub: [ShakalBhau0001](https://github.com/ShakalBhau0001) & [Rajlaxmi-1307](https://github.com/Rajlaxmi-1307)**
 
 ---
 
